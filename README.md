@@ -1,2 +1,2 @@
 # PL
-PL lib
+PL lab
